@@ -1215,4 +1215,4 @@
 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Home Assistant/2023.4 (io.robbie.HomeAssistant; build:2023.460; iPadOS 15.7.8) Mobile/HomeAssistant, like Safari",
 "Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-N770F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36",
 "Mozilla/5.0 (Linux; Android 9; moto g(6) plus Build/PPW29.116-20-28; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/428.0.0.26.108;]",
-"Mozilla/5.0 (Linux; Android 13; SM-F721B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/428.0.0.26.108;]",]
+"Mozilla/5.0 (Linux; Android 13; SM-F721B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/428.0.0.26.108;]"]
